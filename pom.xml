@@ -55,6 +55,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>cicd-springdemo</finalName>
 	</build>
 
 </project>
